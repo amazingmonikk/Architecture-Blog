@@ -47,3 +47,37 @@ img {
 .f {
     grid-area: 9/7/10/10;
 }
+
+/* 3: pattern play */
+
+.g {
+    grid-area: 11/3/16/13;
+}
+.h {
+    grid-area: 11/3/16/13;
+}
+.i {
+    grid-area: 14/1/15/4;
+}
+
+/* 4: healing house */
+.j {
+    grid-area: 15/1/22/7;
+}
+.k {
+    grid-area: 17/6/19/10;
+}
+.l {
+    grid-area: 19/7/20/9;
+}
+
+/* 5: curved perfection */
+.m {
+    grid-area: 21/3/27/13;
+}
+.n {
+    grid-area: 21/3/27/13;
+}
+.o {
+    grid-area: 24/1/26/4;
+}
