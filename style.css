@@ -3,7 +3,7 @@ body {
 }
 
 #app {
-    width: 90;
+    width: 90%;
     margin: auto;
 }
 
@@ -81,3 +81,26 @@ img {
 .o {
     grid-area: 24/1/26/4;
 }
+
+.headline {
+    margin-top: 5vh;
+    height: 20vh;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+    font-size: 120%;
+    margin-bottom: 10vh;
+}
+
+.box {
+    font-family: 'Roboto Slab', serif;
+    font-size: 90%;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 180%;
+    font-family: 'Playfair Display', serif;
+    text-decoration: underline;
+}
+
